@@ -11,7 +11,7 @@ import java.io.*;
  */
 public class Main {
 
-    private static final String apiKey = "XJJ60SITVWSLPFC6";
+    private static final String apiKey = "xxxxx";
 
     public static void main (String... args) throws InterruptedException {
 
